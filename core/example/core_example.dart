@@ -1,4 +1,4 @@
-import 'package:core/core.dart';
+import 'package:one_core/core.dart';
 
 main() {
   var awesome = new Awesome();
